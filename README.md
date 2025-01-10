@@ -24,9 +24,12 @@ Most used to receive trade request from player, it is usefull when you are worki
 
 I.E:
 
+```JavaScript
 const filePath =
 "d:/SteamLibrary/steamapps/common/Path of Exile 2/logs/client.txt"; // Replace with your Path of Exile 2 file path
+
 const filterString = "@From"; // String to filter the message - Use @From to filter whispers
+```
 
 **_ Running the script _**
 
