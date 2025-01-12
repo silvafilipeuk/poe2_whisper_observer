@@ -34,3 +34,5 @@ const filterString = "@From"; // String to filter the message - Use @From to fil
 **_ Running the script _**
 
 - node poe2_whisper.js
+
+![alt text](https://github.com/silvafilipeuk/poe2_whisper_observer/blob/main/screenshot.png?raw=true)
